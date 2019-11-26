@@ -1,3 +1,14 @@
+## Mini loja com carrinho de compras
+
+Foi criada uma mini loja utilizando Redux
+e o React Saga para gerenciamento de estados.
+
+Tela Inicial
+![Tela 1](img/img_1.png)
+
+Carrinho
+![Tela 2](img/img_2.png)
+
 ### Instalação do redux e seu pacote de integração com o react
 
 `yarn add redux react-redux`
